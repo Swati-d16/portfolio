@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: 
+**URL**: https://portfolio-delta-ten-02155c5it1.vercel.app/
 
 ## Home Page (light mode)
 
